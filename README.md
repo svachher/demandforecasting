@@ -15,4 +15,18 @@ This project focuses on **forecasting pharmaceutical drug demand** using a datas
 - **Visualization:** Power BI  
 - **Environment:** Jupyter Notebook, VS Code  
 
-## 📂 Project Structure  
+## 📂 Project Structure 
+📁 demand-forecasting-pharma
+│── 📂 data # Raw and processed datasets
+│── 📂 notebooks # Jupyter notebooks for EDA & modeling
+│── 📂 sql_queries # SQL scripts for database management
+│── 📂 powerbi_dashboard # Power BI reports & dashboards
+│── 📄 requirements.txt # Required Python libraries
+│── 📄 README.md # Project documentation
+│── 📄 main.py # Python script for demand forecasting
+📊 Results & Insights
+The forecasting model predicts demand fluctuations with improved accuracy.
+Power BI visualizations help stakeholders optimize drug inventory planning.
+📝 Future Improvements
+Implement advanced forecasting techniques (ARIMA, LSTMs).
+Automate data pipeline integration.
